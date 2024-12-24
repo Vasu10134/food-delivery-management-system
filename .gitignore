@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+.project
+.classpath
+target/
+*.sqlite
