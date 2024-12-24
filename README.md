@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Delivery Management System
 
 This project is a simple Java-based Food Delivery Management System, designed to simulate the basic operations of a food delivery service. It uses a MySQL database for storing user and order data. The system allows users to register, place orders, and track the status of their orders.
@@ -18,3 +19,6 @@ This project is a simple Java-based Food Delivery Management System, designed to
 ## How to Run:
 1. Compile all Java files.
 2. Run `FoodDeliverySystem.java` to simulate the food delivery system.
+=======
+# food-delivery-management-system
+>>>>>>> 2cbf7f1b09a2277d6a0fe3adffc4e8a31a40c0d5
